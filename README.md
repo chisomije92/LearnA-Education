@@ -1,7 +1,7 @@
 
 # LearnA
 
-A UI layout for an educational platform
+A UI layout for an online educational platform
 
 
 ## Prerequisites
