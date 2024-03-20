@@ -18,7 +18,7 @@ Once you have the prerequisites in place, you can start LearnA locally by follow
 1. Clone the Repository: If you haven't already, clone this repository to your local machine:
 
 ```sh
-git clone https://github.com/chisomije92/learna-education.git
+git clone https://github.com/chisomije92/learNA-Education.git
 ```
 
 2. Navigate to the Project Directory: Change your current working directory to the project's root folder:
