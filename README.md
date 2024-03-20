@@ -7,7 +7,7 @@ A UI layout for an educational platform
 ## Prerequisites
 1. Code Editor (VS Code)
 
-2. Live Server Extension: This project uses TypeScript. Make sure you have TypeScript installed. You can install it globally with the following command:
+2. Live Server Extension
 
 
 
