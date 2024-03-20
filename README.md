@@ -24,7 +24,7 @@ git clone https://github.com/chisomije92/learNA-Education.git
 2. Navigate to the Project Directory: Change your current working directory to the project's root folder:
 
 ```sh
-cd learna-education
+cd learnA-Education
 ```
 
 3. Start it locally by clicking **Open with Live Server** when you click on the index.html file
