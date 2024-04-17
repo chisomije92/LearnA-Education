@@ -160,6 +160,23 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   /**
+   * Select Pricing
+   */
+
+  const pricingContainer = document.querySelector(".pricing");
+  if (pricingContainer) {
+    pricingContainer.addEventListener("click", (e) => {
+      let target = e.target;
+      if (target.className === "buy-btn") {
+        e.preventDefault();
+        const featuredPricing = pricingContainer.querySelector(".featured");
+        if (featuredPricing) featuredPricing.classList.remove("featured");
+        target.closest(".pricing-item").classList.add("featured");
+      }
+    });
+  }
+
+  /**
    * Initiate glightbox
    */
   const glightbox = GLightbox({
